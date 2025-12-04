@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+    color: white;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.btn{
+    background-color: white;
+    color: aqua;
+    font-size: 30px;
+    border-radius: 60px;
+    height: 80px;
+    transition: 0.2s ease-in;
+}
+
+.btn:hover{
+    background-color: brown;
+}
